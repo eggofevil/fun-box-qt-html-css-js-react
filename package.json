@@ -1,0 +1,19 @@
+{
+  "name": "qt-html-css",
+  "version": "1.0.0",
+  "description": "qualification task qt-html-css (Нямушка)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eggofevil/fun-box-qt-html-css-js-react.git"
+  },
+  "author": "A.Gurin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eggofevil/fun-box-qt-html-css-js-react/issues"
+  },
+  "homepage": "https://github.com/eggofevil/fun-box-qt-html-css-js-react#readme"
+}
